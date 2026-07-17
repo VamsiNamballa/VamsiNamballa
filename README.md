@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Vamsi Namballa</h1>
 <h3 align="center">Currently working on Data Science Projects</h3>
 
-- 📫 How to reach me **vamsman1234@gmail.com**
+- 📫 How to reach me **namballapavanvamsi021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
